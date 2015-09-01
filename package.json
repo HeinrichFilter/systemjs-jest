@@ -1,0 +1,18 @@
+{
+  "name": "systemjs-jest",
+  "version": "1.0.0",
+  "description": "Jest plugin for SystemJS Builder",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeempathy/systemjs-jest.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codeempathy/systemjs-jest/issues"
+  },
+  "homepage": "https://github.com/codeempathy/systemjs-jest#readme",
+  "dependencies": {
+    "systemjs-builder": "^0.13.5"
+  }
+}
