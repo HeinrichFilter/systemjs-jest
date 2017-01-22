@@ -13,6 +13,6 @@
   },
   "homepage": "https://github.com/codeempathy/systemjs-jest#readme",
   "dependencies": {
-    "systemjs-builder": "^0.13.5"
+    "systemjs-builder": "^0.15.34"
   }
 }
