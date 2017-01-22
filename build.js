@@ -42,7 +42,7 @@ if (fs.existsSync(configFile)) {
 }
 
 configLoaded.then(function () {
-  return builder.buildSFX(inputFileName);
+  return builder.buildStatic(inputFileName);
 }).then(function (output) {
   console.log(output.source);
 }, function (error) {
